@@ -1,8 +1,8 @@
-# Free Performance Gain with ONNX <!-- omit in toc -->
+# Free Inference Speed Gain with ONNX <!-- omit in toc -->
 
-ONNX Runtime is a cross-platform inference and training machine-learning accelerator. [Learn more about it here.](https://github.com/microsoft/onnxruntime)
+ONNX Runtime is a cross-platform inference and training machine-learning accelerator. [Learn more about it here.](https://onnx.ai/)
 
-This repo demonstrates how converting a model saved in `H5` format to `.onnx` for a free performance gain. The model used is a simple neural network trained on [fashion_mnist dataset](https://www.tensorflow.org/api_docs/python/tf/keras/datasets/fashion_mnist/load_data).
+This repo demonstrates how converting a model saved in `H5` format to `.onnx` for a free speed gain. The model used is a simple neural network trained on [fashion_mnist dataset](https://www.tensorflow.org/api_docs/python/tf/keras/datasets/fashion_mnist/load_data).
 
 ## Table of Contents <!-- omit in toc -->
 
